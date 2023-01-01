@@ -1,0 +1,69 @@
+[
+    {
+        "nav": {
+            "image": "images/logo.svg",
+            "alt": "W Logo"
+        }
+    },
+    {
+        "main": {
+            "image": "images/image-web-3-desktop.jpg",
+            "title": "The Bright Future of Web 3.0?",
+            "txt": "We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people. But is it really fulfilling its promise?",
+            "alt": "Simple Komputer"
+        }
+    },
+    {
+        "news": [
+            {
+                "id": 1,
+                "title": "Hydrogen VS Electric Cars",
+                "txt": "Will hydrogen-fueled cars ever catch up to EVs?"
+            },
+            {
+                "id": 2,
+                "title": "The Downsides of AI Artistry",
+                "txt": "What are the posibble adverse effects of on-demand AI image generation?"
+            },
+            {
+                "id": 3,
+                "title": "Is VC Funcding Drying Up?",
+                "txt": "Private funding by VC firms is down 50% YOY.We take a look at what that means."
+            }
+        ]
+    },
+    {
+        "footer": [
+            {
+                "id": 1,
+                "num":"01",
+                "image": "images/image-retro-pcs.jpg",
+                "title": "Reviving Retro PCs",
+                "txt": "What happens when old PCs are given modern upgrades?",
+                "alt": "Retro PC"
+            },
+            {
+                "id":2,
+                "num":"02",
+                "image":"images/image-top-laptops.jpg",
+                "title":"Top 10 Laptops of 2022",
+                "txt":"Our best picks for various needs and budgets.",
+                "alt":"Top Laptop"
+            },
+            {
+                "id":3,
+                "num":"03",
+                "image":"images/image-gaming-growth.jpg",
+                "title":"The Growth of Gaming",
+                "txt":"How the pandemic has sparked fresh opportunities.",
+                "alt":"Stick Gaming"
+            }
+        ]
+    },
+    {
+        "support":{
+            "menu":"images/icon-menu.svg",
+            "close":"images/icon-menu-close.svg"
+        }
+    }
+]
